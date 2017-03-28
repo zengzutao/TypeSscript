@@ -48,3 +48,5 @@ let strLength: number = (<string>someValue).length;
 let someValue: any = "this is a string";
 
 let strLength: number = (someValue as string).length;
+
+(14).Symbols Symbols是不可改变且唯一的 内置symbols
